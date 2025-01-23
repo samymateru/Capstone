@@ -1,0 +1,17 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# FastAPI specific
+instance/
+*.log
+
+# IDE files
+.vscode/
+.idea/
